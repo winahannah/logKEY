@@ -29,13 +29,13 @@ public class SendEmail {
     private boolean tls;
     private boolean debug;
 
-    String urlString = "https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s";
-    String apiToken = "1268064081:AAGlDQ9OJlgwyiAZj0a2HAYAgFShBdD7WWE";
-    String chatId = "-1001243413618";
+    String urlString = //"urlString";//
+    String apiToken = //"Token";//
+    String chatId = //"chatId";//
     String text = "WARNING: inappropriate word has been detected. Please check your email ASAP for more info.";
 
 
-    private static String app_path = "C:\\Users\\ASUS\\AppData\\Roaming\\log(K)ey\\Logs";
+    private static String app_path = //"C:\\log(K)ey\\Logs";//
     
 
     public void sendSimpleEmail(String email_to, String subject, String msg) {
